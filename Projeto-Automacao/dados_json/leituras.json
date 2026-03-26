@@ -1,0 +1,6 @@
+{"sensor": "2", "valor": 70.0, "nivel": "NORMAL", "data": "2026-03-26 11:26:11"}
+{"sensor": "2", "valor": 50.0, "nivel": "NORMAL", "data": "2026-03-26 13:25:14"}
+{"sensor": "4", "valor": 60.0, "nivel": "NORMAL", "data": "2026-03-26 13:30:02"}
+{"sensor": 2, "valor": 50.0, "nivel": "NORMAL", "data_hora": "2026-03-26 13:54:12"}
+{"sensor": 2, "valor": 50.0, "nivel": "NORMAL", "data_hora": "2026-03-26 14:01:11"}
+{"sensor": 4, "valor": 90.0, "nivel": "ALERTA", "data_hora": "2026-03-26 14:04:28"}
