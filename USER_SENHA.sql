@@ -1,0 +1,3 @@
+CREATE USER 'aluno'@'localhost' IDENTIFIED BY '1234';
+GRANT ALL PRIVILEGES ON *.* TO 'aluno'@'localhost';
+FLUSH PRIVILEGES;
